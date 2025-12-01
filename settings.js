@@ -1,3 +1,3 @@
 
-global.creator = "LuxzOfficial"
-global.apikey = ["new", "new", "new"]
+global.creator = "onlypann"
+global.apikey = ["new", "herokkk", "ipan"]
